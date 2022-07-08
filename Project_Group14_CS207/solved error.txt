@@ -1,0 +1,4 @@
+1. There was an error in edit.php. We missed a line while copying the code from prototype to final project code. We added that line back in its place so it is working now.
+
+
+2. We dropped edit feature for item image because it was also causing a problem in 1.
